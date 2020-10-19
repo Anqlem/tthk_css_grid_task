@@ -1,0 +1,53 @@
+#container{
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    grid-template-rows: repeat(2,1fr);
+}
+
+.img1{
+    height: 100px;
+    width:100px;
+    object-fit: cover;
+}
+
+.img2{
+    height: 100px;
+    width:100px;
+    object-fit: cover;
+}
+
+.img3{
+    height: 400px;
+    width:400px;
+    object-fit: cover;
+}
+
+.img4{
+    height: 100px;
+    width:100px;
+    object-fit: cover;
+}
+
+.img5{
+    height: 100px;
+    width:100px;
+    object-fit: cover;
+}
+
+.img6{
+    height: 100px;
+    width:100px;
+    object-fit: cover;
+}
+
+.img7{
+    height: 100px;
+    width:100px;
+    object-fit: cover;
+}
+
+.img8{
+    height: 100px;
+    width:100px;
+    object-fit: cover;
+}
